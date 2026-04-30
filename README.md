@@ -63,6 +63,12 @@ Model Implementation: Utilized Random Forest Regressor and Linear Regression to 
 
 Evaluation: Optimized the model using Mean Absolute Error (MAE) and $R^2$ Score to ensure reliable pricing.Solution Derived:Delivered a robust tool that provides instant valuation for sellers and buyers, reducing price ambiguity in the secondary market. The model successfully identified that Mileage and Brand Reputation were the two most significant predictors of price depreciation.
 
+
+
+Solution Derived:
+
+Delivered a robust tool that provides instant valuation for sellers and buyers, reducing price ambiguity in the secondary market. The model successfully identified that Mileage and Brand Reputation were the two most significant predictors of price depreciation.
+
 Tech Stack:
 
 Python (Core Development)Scikit-learn (Regression Algorithms)
