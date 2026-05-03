@@ -1,6 +1,6 @@
 📂 Project Tasks
 
-📂Task 2:
+📂Task 3:
 
 Car Price Prediction & Valuation Model Description: Developed a predictive regression model to estimate the market value of used cars. The project involved processing large datasets of vehicle listings to identify how features like mileage, brand prestige, and fuel type impact resale price.
 
