@@ -1,4 +1,8 @@
 📂 Project Tasks
+
+
+
+
 📂 Task 1: Iris Flower Classification Description: Developed a Machine Learning model to automate the process of classifying Iris flowers into three specific species: Setosa, Versicolor, and Virginica. By leveraging morphological data, the project demonstrates how computational models can replace manual botanical identification with high precision.
 
 Key Features:
